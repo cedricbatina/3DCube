@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "OtherCube3D",
+      "request": "launch",
+      "mainClass": "OtherCube3D",
+      "projectName": "3DCube_6f0aee9d"
+    },
+    {
+      "type": "java",
+      "name": "Cube3D",
+      "request": "launch",
+      "mainClass": "Cube3D",
+      "projectName": "3DCube_6f0aee9d"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/works/works/web_projects/3DCube",
+      "program": "d:/works/works/web_projects/3DCube/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
