@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MouseCube",
+      "request": "launch",
+      "mainClass": "MouseCube",
+      "projectName": "3DCube_6f0aee9d"
+    },
+    {
+      "type": "java",
       "name": "ControlledCube",
       "request": "launch",
       "mainClass": "ControlledCube",
