@@ -3,38 +3,72 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MyCube",
+      "request": "launch",
+      "mainClass": "MyCube",
+      "projectName": "3DCube_6f0aee9d"
+    },
+    {
+      "type": "java",
+      "name": "ChatCube",
+      "request": "launch",
+      "mainClass": "ChatCube",
+      "projectName": "3DCube_6f0aee9d"
+    },
+    {
+      "type": "java",
+      "name": "DigitsGDToControlCube",
+      "request": "launch",
+      "mainClass": "DigitsGDToControlCube",
+      "projectName": "3DCube_6f0aee9d"
+    },
+    {
+      "type": "java",
+      "name": "NewCube",
+      "request": "launch",
+      "mainClass": "NewCube",
+      "projectName": "3DCube_6f0aee9d",
+      "vmArgs": "-Djava.library.path=./lib"
+    },
+    {
+      "type": "java",
       "name": "MouseCube",
       "request": "launch",
       "mainClass": "MouseCube",
-      "projectName": "3DCube_6f0aee9d"
+      "projectName": "3DCube_6f0aee9d",
+      "vmArgs": "-Djava.library.path=./lib"
     },
     {
       "type": "java",
       "name": "ControlledCube",
       "request": "launch",
       "mainClass": "ControlledCube",
-      "projectName": "3DCube_6f0aee9d"
+      "projectName": "3DCube_6f0aee9d",
+      "vmArgs": "-Djava.library.path=./lib"
     },
     {
       "type": "java",
       "name": "MovingCube",
       "request": "launch",
       "mainClass": "MovingCube",
-      "projectName": "3DCube_6f0aee9d"
+      "projectName": "3DCube_6f0aee9d",
+      "vmArgs": "-Djava.library.path=./lib"
     },
     {
       "type": "java",
       "name": "OtherCube3D",
       "request": "launch",
       "mainClass": "OtherCube3D",
-      "projectName": "3DCube_6f0aee9d"
+      "projectName": "3DCube_6f0aee9d",
+      "vmArgs": "-Djava.library.path=./lib"
     },
     {
       "type": "java",
       "name": "Cube3D",
       "request": "launch",
       "mainClass": "Cube3D",
-      "projectName": "3DCube_6f0aee9d"
+      "projectName": "3DCube_6f0aee9d",
+      "vmArgs": "-Djava.library.path=./lib"
     },
     {
       "name": "C/C++ Runner: Debug Session",

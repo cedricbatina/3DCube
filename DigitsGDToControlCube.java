@@ -5,6 +5,7 @@ import com.sun.j3d.utils.geometry.ColorCube;
 import com.sun.j3d.utils.universe.*;
 import javax.media.j3d.*;
 //import javax.vecmath.*;
+//import FiltreGDClavierBehavior;
 
 /*Cette classe affiche ColorCube et utilise un comportement FiltreGDClavierBehavior qui fait tourner le cube à gauche si appui sur touche clavier g, à doirte si appui sur touche clavier d. Il ne se passe rien si on appuie sur une autre touche du clavier */
 

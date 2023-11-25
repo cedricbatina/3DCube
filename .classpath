@@ -4,3 +4,10 @@
 
 
 
+<classpathentry kind="lib" path="lib/lwjgl-natives-windows.jar"/>
+
+<classpathentry kind="lib" path="lib/lwjgl.jar"/>
+<classpathentry kind="lib" path="lib/lwjgl-glfw.jar"/>
+<classpathentry kind="lib" path="lib/lwjgl-opengl.jar"/>
+<classpathentry kind="lib" path="lib/lwjgl-opengl-natives-windows.jar"/>
+
